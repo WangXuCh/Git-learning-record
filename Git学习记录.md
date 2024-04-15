@@ -37,7 +37,7 @@
   已暂存 Staged      已经修改并添加到暂存区的文件
   ```
 
-  ![image-20240410114852935](C:\Users\ASUS\Desktop\image-20240410114852935.png)
+  ![image-20240410114852935](https://github.com/WangXuCh/Git-learning-record/blob/main/img/image-20240410114852935.png)
 
 - 添加、提交文件
 
@@ -56,9 +56,9 @@
   git log --oneline  查看提交记录
   ```
 
-![image-20240410130637578](C:\Users\ASUS\Desktop\image-20240410130637578.png)
+![image-20240410130637578](https://github.com/WangXuCh/Git-learning-record/blob/main/img/image-20240410130637578.png)
 
-![image-20240410130934732](C:\Users\ASUS\Desktop\image-20240410130934732.png)
+![image-20240410130934732](https://github.com/WangXuCh/Git-learning-record/blob/main/img/image-20240410130934732.png)
 
 - 回退到之前的版本
 
@@ -76,13 +76,13 @@
   然后使用git reset --hard <版本号>
   ```
 
-  ![image-20240410132224802](C:\Users\ASUS\Desktop\image-20240410132224802.png)
+  ![image-20240410132224802](https://github.com/WangXuCh/Git-learning-record/blob/main/img/image-20240410132224802.png)
 
-![image-20240410134912965](C:\Users\ASUS\Desktop\image-20240410134912965.png)
+![image-20240410134912965](https://github.com/WangXuCh/Git-learning-record/blob/main/img/image-20240410134912965.png)
 
-![image-20240410135342269](C:\Users\ASUS\Desktop\image-20240410135342269.png)
+![image-20240410135342269](https://github.com/WangXuCh/Git-learning-record/blob/main/img/image-20240410135342269.png)
 
-![image-20240410135521135](C:\Users\ASUS\Desktop\image-20240410135521135.png)
+![image-20240410135521135](https://github.com/WangXuCh/Git-learning-record/blob/main/img/image-20240410135521135.png)
 
 - 查看差异
 
@@ -120,7 +120,7 @@
 
 - PULL AND PUSH
 
-  ![image-20240410173802057](C:\Users\ASUS\Desktop\image-20240410173802057.png)
+  ![image-20240410173802057](https://github.com/WangXuCh/Git-learning-record/blob/main/img/image-20240410173802057.png)
 
 - 关联本地仓库和远程仓库
 
